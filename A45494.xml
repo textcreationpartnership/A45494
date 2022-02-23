@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation how eighteen men were casta way [sic] at sea six of which perished in the ship, and the other twelve got into the boat, and lived at sea six weeks in it : with the great hardships they underwent, and how miraculously they were preserved / written by Philip Hanger ...</title>
+            <author>Hanger, Philip.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45494</idno>
+            <idno type="STC">Wing H648</idno>
+            <idno type="STC">ESTC R20026</idno>
+            <idno type="EEBO-CITATION">11766939</idno>
+            <idno type="OCLC">ocm 11766939</idno>
+            <idno type="VID">48790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 533:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation how eighteen men were casta way [sic] at sea six of which perished in the ship, and the other twelve got into the boat, and lived at sea six weeks in it : with the great hardships they underwent, and how miraculously they were preserved / written by Philip Hanger ...</title>
+                  <author>Hanger, Philip.</author>
+               </titleStmt>
+               <extent>[4], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Harper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The ship was the Susanna of Boston, New England.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Susanna (Ship)</term>
+               <term>Marine accidents --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:48790:1"/>
+            <p>Licenſed, According to Order.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:48790:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION HOW Eighteen Men Were Caſt away at SEA:</p>
+            <p>Six of which periſhed in the SHIP, And the other Twelve got into the Boat, and lived at Sea ſix Weeks in it.</p>
+            <p>WITH The great Hardſhips they underwent, and how mira<g ref="char:EOLhyphen"/>culouſly they were preſerved.</p>
+            <p>WRITTEN By <hi>PHILIP HANGER,</hi> then Maſter of the ſaid Ship.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Harper</hi> at the <hi>Flower-de-Luce,</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet,</hi> 1675.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:48790:2"/>
+            <head>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord to the READER.</head>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollowing Relation is nothing of Impoſture, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but a real Truth; being under the hand of the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſter of the ſaid Veſſel, who is now living in the City of <hi>Briſtol,</hi> and Maſter of the Ship <hi>William</hi> and <hi>Anne</hi> of the ſame City. His way of life hath been at Sea. Hear him ſpeak then in his own language, giving a bare and true Relation of matter of Fact, without a Pream<g ref="char:EOLhyphen"/>ble, or the gaudy flouriſhes of Rhetorick and Eloquence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48790:2" rendition="simple:additions"/>
+            <head>A TRUE RELATION HOW Eighteen MEN WERE Caſt away at SEA; <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome years ſince, I ſet ſail from the <hi>Bar<g ref="char:EOLhyphen"/>badoes,</hi> in the <hi>Suſanna</hi> of <hi>Boſton</hi> in <hi>New-England,</hi> of Burthen 48 Tuns, being bound for the ſaid Port of <hi>Boſton.</hi> On the 23 day of <hi>September,</hi> being in the latitude of 37 degrees, at eight of the Clock at night, there ſprung a great and fearful
+<pb n="2" facs="tcp:48790:3"/>Leak upon us, inſomuch that in the ſpace of half an hour our Veſſel was half ful of water. We were ſome<g ref="char:EOLhyphen"/>what leaky before, ſo that we were neceſſitated to pump about an hundred ſtroaks a Glaſs: But now our Pump would not ſuck, which forced me to ſet both our Pumps to work. I gave order to the Carpenter to go into the Hold, who, opening the Hatches, leaps down upon the Goods, and found himſelf up to the knees in water; whereupon he cried out, the Hold was full of water, which was too ſad and true news to us. Our Boat lay then with her Keel up, ſo we turned her to rights, and putting in a Compaſs, a Quadrant, and a Sea<g ref="char:EOLhyphen"/>mans Callander, under the fore-ſheat of the Boat, and making faſt a Rope to the Ring, we gave her a launch into the Sea. There was then ſtirring but little Wind, ſo that all our Seamen went immedi<g ref="char:EOLhyphen"/>ately into the Boat, and were ſo ſurprized with fear, that they would not help me to get any thing out of the Ship, aboard which I ſtill ſtaied; and being aſſiſted by ſix Paſſengers, I put aboard the Boat a hogſhead of Water, which lay in the Hatch way, and wanted ſeven inches of being full; but we muſt take either that or none, for our other Hogſheads were overflown with the Sea, and the Bungs being open the Salt-water ran into them. We took alſo a little Veſſel of green-Ginger, and a Pillow-caſe of Bread; which was all the Provi<g ref="char:EOLhyphen"/>ſion we had. We alſo put in a Boats-Maſt, and Sail; four Oars, a Bonnet Tarpaulin, a Hammock, and a Deal-board; a Hand-ſpeak, and a Box of
+<pb n="3" facs="tcp:48790:3"/>Nails, with the Carpanters Axe. This was all we took out of the Ship, and this we did in half an hours time: then the water was up to the Deck. I cauſed the Paſſengers to follow the Pumps, and in the mean time I leapt into the Boat; which, as ſoon as the Paſſengers perceived, they cried moſt bitterly. Our Boat was not above ſix inches free, ſo that had we taken them in, we muſt have ſunk by the Ships ſide: So we caſt off, and left the ſix Paſ<g ref="char:EOLhyphen"/>ſengers on Board. Yet were we twelve Men in the Boat, and we thought our ſelves in almoſt as bad a condition as they who were in the Ship, whom we left with two Corſes abroad, and the Scoopers to the water; little Wind. Within an hour after ſome of our Men did wiſh themſelves aboard again, to be out of the miſeries they were like to undergo. The Bonnet which we had was as long as the Boat; ſo we ripped off the bolt-Rope, and ſplit the Bon<g ref="char:EOLhyphen"/>net in the midſt, and nailed the one half on the one ſide of the Boat, and the other half on the other. Then we ſplit the Deal-board which we had, and made ſtanchings to keep up our Waſte cloſe, after we had nailed on the Bonnet on the Boats Port<g ref="char:EOLhyphen"/>ledge; we had made it two foot above the ſide by that time it was day. We kept our Boats head all night againſt the Sea with an Oar: So having no Wind, we ſlip'd out four Oars and rowed away North-weſt, for we were not then above 80 Leagues off the ſhoar. Thus we rowed for 48 hours, being very calm; neither did we eat or drink all this time. The <hi>26th.</hi> day, being Sunday in the morn<g ref="char:EOLhyphen"/>ing,
+<pb n="4" facs="tcp:48790:4"/>the Wind came at North-weſt very hard: So we made a Dreg to keep the Boat againſt the Sea. In this manner we lay almoſt an hours time, until the Sea did break in over our Boats-head. Then we were forced to ſet our Sail, and ſcud away before the Wind. This Wind we had for four and twenty hours time, which made the Sea very lofty, and the next day the Wind veer'd about at Weſt and South: but ſtill we were compelled to ſcud before it, and as night came on it did begin to blow and rain very hard, and very duſky and dark it was all night. When the day appeared we were ſailing to the Southward, with the Wind at North-weſt: It blew very ſtrong. This made us conſider what a long Courſe we were to run that way, and forced we were to put our ſelves to <hi>an Allowance, which God knows, was very little; Three Cakes of Bread for twelve Men, and nine ſpoonfuls of Water, and a Race or two of Ginger for each Man a day. <g ref="char:V">Ʋ</g>pon this Allowance, and ſome few Fiſh which we caught and eat raw, we liv'd.</hi> There were Fiſh continually ſwiming after the Boat for near three hundred Leagues, out of hopes no doubt but to find a prey; of which they were ſo greedy, that if there was but a Ropes-end hung over the Boat, they would take hold of it. To catch them there<g ref="char:EOLhyphen"/>fore, we took a ſpeak-Nail and bowed it, and made it faſt to a ſtick about two foot long, and covered the Nail with a Linnen-rag, which they would greedily ſwallow; and then we ſtruck the Nail into them, and ſo hall'd them over the Boats-ſide.
+<pb n="5" facs="tcp:48790:4"/>Thus by Gods help we caught ſix Dolphins, and one Dog-fiſh, at ſeveral times. When we had them aboard, we would cut off their heads, and ſave the blood in a diſh, and drink it. Nay we were forced to drink our own Water, and ſome did rather chooſe to drink Salt-water; This did we do for fifteen or ſixteen daies together. The weather being ſo hot, and our allowance of Water being ſo ſmall, that every man had it in a diſh; and to make it go the farther, we took a Rag of linnen cloth and dipped in the water, and therewith waſhed and gargariz'd our mouths: For my part when I had occaſion to make water, I would catch it in my ſhoe, and let it ſtand till it was cold, and then drink it. I found it to be much better than Salt-water; for they that drank it were diſtemper'd in their heads, and troubled with the ſcouring in their bodies, but I was not diſtemper'd; yet I could not, neither did I go to ſtool but once in thirty daies. Our Boat was leaky all the time we were in her, ſo that one man was continually em<g ref="char:EOLhyphen"/>ploy'd in heaving out the Water; which we did by turns. In the Night, he whoſe turn it was to throw out the water, would lie over the Hog<g ref="char:EOLhyphen"/>ſhead (our allowance of Water being ſo ſmall, he would with a wad of <hi>Ocum,</hi> tied to a Rope of Yarn, put it into the Hogſhead, and therewithal draw-up the Water.) There was one alſo made the ſame uſe of his Handkerchief, and had left it therein. In the Morning I chanced to look into the Hog<g ref="char:EOLhyphen"/>ſhead, and ſaw the Cloth, which I took forth
+<pb n="6" facs="tcp:48790:5"/>with a ſtick, and a Nail at the end of it; I believe it contain'd near a pint of Water, which I drank heartily. I found alſo the wads of <hi>Ocum.</hi> Ha<g ref="char:EOLhyphen"/>ving thus diſcovered the cheat, and fearing that drinking thus beyond our Allowance, we ſhould ſoon drink up all our Water: To prevent it, e<g ref="char:EOLhyphen"/>very night I would nail a piece of Shoe-leather over the Bunghole. We took up our Water with a <hi>Velencha,</hi> which we had made of a piece of Deal-board. In this diſtreſs we were bandied up and down, and carried into the Trade Wind, in the Latitude of 28, where we were becalmed, and had little or no Wind for a weeks time. By that time we had been three weeks in our Boat, our Ginger was ſpent, and our poor Carpenter died. On the 22. of <hi>October,</hi> in the morning, we ſaw the <hi>Virgin-Iſlands,</hi> it was directly to Lee-ward of us. That day we had little Wind; but on the 23 day, in the Morning, we had a freſh brieze, and at two of the Clock in the Afternoon we got on ſhoar at the windward-Iſland. It was very ſmooth-water, for we went in over a ledge of Rocks. But when we eſſayed to go out of the Boat, we were ſo weak and giddy, we could not go nor hardly ſtand. Then we had one Cake of bread for a Man left, and ſeven inches of Water in our Hog<g ref="char:EOLhyphen"/>ſhead. Thus was it a compleat Month before we came to Land, after our Ship was ſunk. Our Cloaths were rotten upon our backs. After ſome time we recover'd the uſe of our Legs, and went as well as we could upon the Iſland, to ſeek for
+<pb n="7" facs="tcp:48790:5"/>ſomething to eat: Where I found a great green thing as big as my head, of a wateriſh taſte, which did not give us content. I cut it up with the piece of a knife, and found it full of prickles. Then one <hi>John Collett</hi> and I went to look for Wa<g ref="char:EOLhyphen"/>ter, for it had been a dry time. Thus travelling through the Woods we eſpied an open place, but when we came to it, we found it was a great Pond of Salt-water, and by the ſide thereof were abundance of white <hi>Crabs,</hi> very large, and <hi>Crab</hi>-holes, out of which we drank; but the Water was brackiſh. We caught one of the <hi>Crabs,</hi> and plucked off its Claws, and tore it to pieces, and did eat of it very heartily. We caught as many as we could carry on a ſtring to the Sea-ſide, to the reſt of our Crew; who were afraid to eat them till they ſaw we did it before them. But yet we could find no freſh Water. When Night came we hall'd up our Boat as high as we could out of the Surfe, and taking the Oars and Sail, we made a Tent againſt the Rocks for to lie in; but I would not lie out of the Boat, but kept the Tarpaulin, and lay under it all Night. Moſt part of the Night it did rain and blow very hard, with Thun<g ref="char:EOLhyphen"/>der and Lightning. This ſupplied us with Rain<g ref="char:EOLhyphen"/>water all the time we were there, which we found in the holes of the Rocks. In the Morning we went abroad again to ſeek for ſomewhat to eat, and then we found a Shel-fiſh, which is called <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uldiers;</hi> and them we did eat. The Iſland on which we were was but little, not above a mile
+<pb n="8" facs="tcp:48790:6"/>over; but there were many other Iſlands and Rocks, but no Inhabitants on any of them. Whilſt we were here one of our Company died. In ten daies time, being on the ſhoar, we had pretty well recovered our ſtrength; and having hall'd up our Boat, we over-ſet her, and mended her as well as we could. And conſidering, it were better to put to Sea in the night than in the day, an hour before day we ſitted out our Boat, and out we rowed with<g ref="char:EOLhyphen"/>out any great danger. By that time the Sun was riſen we had cleer'd our ſelves off the Rocks, and ſetting up our Sail before the Wind, we ſcudded about a League along the ſhoar, and there we ſaw as it were an Harbour: So in we went, and being a large place, we ſail'd before the Wind till two of the Clock in the Afternoon; then we went on ſhoar to get ſomething for dinner, which we made upon black-<hi>Crabs,</hi> and <hi>Souldiers.</hi> After Dinner we came to Sail again, and ſailed before the Wind, with the Land on both ſide of us. When Night came, we went on ſhoar to get our Supper and Lodging. Thus for fourteen Nights time, all the food we had was raw <hi>Crabs,</hi> and <hi>Souldiers.</hi> But here we could take no reſt for the <hi>Muſheeloes.</hi> About two hours before day we came to ſail again before the Wind, and by that time it was Day, we had cleer'd our ſelves off that Iſland. Then we could ſee the Iſland of <hi>Porterecco,</hi> and there we went on ſhoar to look for <hi>Crabs</hi> to our Supper, but we could find none; but we found a River of Freſh-water, and thereof drank our fill, but
+<pb n="9" facs="tcp:48790:6"/>nothing we had to eat. We lay on the Beach on the ſhoar all Night, and could hear the noiſe of Dogs and Cattle, which made us fearful of the <hi>Negroes.</hi> In the Morning early we fitted our ſelves to Sail, and when we had launcht our Boat, and all of us in, my Mate went on ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, and ſaid nothing to us, ſo we thought he had gone to un<g ref="char:EOLhyphen"/>truſs a Point. There we tarried about an hour, and went on ſhoar to look after him; but in vain. Then we ſailed before the Wind along, the ſhoar, where we ſaw abundance of wild Cattle in a <hi>Savanagh.</hi> It was as much as three of us could do to ſtear the Boat with an Oar, for we had loſt our Rudder at the <hi>Virgin Iſlands.</hi> At ten or eleven of the Clock in the Forenoon we eſpied a Sail in the <hi>Offin,</hi> ſailing before the Wind, as we were; we edg'd off to her, and ſhe in towards us. In a little time we came to ſpeech with them; ſo they hail'd us, and aſked of us from whence we were; to whom we briefly made known our Conditions, and deſired them to ſhew us ſome relief. They were <hi>Engliſh</hi> that came from <hi>Nevis,</hi> bound to <hi>Tartoodoes;</hi> they were in Company fifteen or ſixteen, and every one his ſmall ſhot. They took us aboard, and we were very welcome to them, and they to us. The Maſters Name was <hi>Robert Hammons.</hi> He aſked me what I would do with my Boat, I told him I would give it him, if he would carry us to <hi>Tartoodoes;</hi> upon which we agreed, and we did weep for joy, to ſee how God had provided
+<pb n="10" facs="tcp:48790:7"/>for us. Now Victuals was ſomewhat ſcarce with them, but we had part of what they had. The next Night, about Midnight, the Maſter of the Shallop, and four Men with him, took my Boat, and every man his ſmall Shot, with a Barrel for Water, and went on ſhoar for Proviſions; we were then two Leagues off the ſhoar. The next day we ſtood off and on with our Shallop, to look for the Maſter, but no news of them till it was Night, and then they came and brought with them four Quarters of Beef, and a Barrel of Water. And as they threw the Beef on board the Shallop, I and my Crew cut it, and eat it raw, for we had no patience to ſtay till it was dreſſed. We ſaw no Fire till now in all our Voyages and Travels. That Night we made ſail for <hi>Spaniola,</hi> and the next Night we came on the North-ſide thereof, and then we would go daily on ſhoar for Victuals. In the Sloop I was like to die with the ſhells of the <hi>Crabs</hi> which I had eaten at the <hi>Virgin Iſlands,</hi> for they would not go through my Body. We were a week in the Shallop before we came to <hi>Tartoodoes,</hi> which vvas the firſt inhabited place vve came at. The People of the Iſland did make us very welcome, both <hi>French</hi> and <hi>Engliſh.</hi>
+            </p>
+            <pb n="11" facs="tcp:48790:7"/>
+            <p>All this is nothing but the Truth; but yet is not all; for I had neither Pen, Ink, nor Paper in the Boat: which hinders me from giving ſo exact a Relation, as otherwiſe I would.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
